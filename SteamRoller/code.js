@@ -18,5 +18,5 @@ function steamrollArray(arr) {
 steamrollArray([1, [2], [3, [[4]]]]);
 console.log(verifyArray([1, 2, 4]))
 console.log(Array.isArray([1]))
-console.log(flattenArray([[[[3][2]]]]))
+console.log(flattenArray([1, [3, [[4]]]]))
 console.log('bob')
